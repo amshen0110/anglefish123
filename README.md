@@ -1,5 +1,7 @@
 ### Salutations 👋 I'm Angela 😄
 
+I'm pretty new to this platform so currently in the proccess of uploading my projects!
+
 - 🔭 More projects and repositories to come! 
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on more projects to come!
