@@ -6,4 +6,3 @@ I'm pretty new to this platform so I'm currently in the proccess of uploading my
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on more projects to come!
 - 😄 Pronouns: her/she
-- ⚡ Fun fact: I'm currently studying Chemical Engineering 
